@@ -1,0 +1,1 @@
+# control + shift + t vurhu class-a koito iskame da testvame avtomati4no ni suzdava unit test

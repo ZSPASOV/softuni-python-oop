@@ -1,0 +1,1 @@
+multiply = lambda n: lambda fn: lambda *args, **kwargs: fn(*args, **kwargs) * n

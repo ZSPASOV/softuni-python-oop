@@ -1,0 +1,1 @@
+# da procheta za DRY - dont repeat yourself princip

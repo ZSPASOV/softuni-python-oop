@@ -1,0 +1,1 @@
+# https://sourcemaking.com/antipatterns/functional-decomposition

@@ -1,0 +1,1 @@
+# da pro4eta za cmd i powershell pove4e

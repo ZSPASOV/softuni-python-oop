@@ -1,0 +1,17 @@
+# Derived types must be completely substitutable for their base types
+# Derived classes
+    # only extend functionalities of the base class
+    # must not remove base class behavior
+
+    # Student IS-SUBSTITUTED-FOR Person
+
+
+# Remarks on the LSP
+
+# LSP is fundamental to a good object-oriented software design because it emphasizes
+# one of its core traits – polymorphism
+# It is about creating correct hierarchies so that classes derived from a base one
+# are polymorphic along the parent one
+# Carefully thinking about new classes in the way that LSP suggests helps us to
+# extend the hierarchy correctly
+# We could say that LSP contributes to the OCP
